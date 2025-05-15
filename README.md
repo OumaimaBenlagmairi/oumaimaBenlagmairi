@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Oumaima Benlagmairi
+
+🎓 Ingénieure généraliste | MSc en Management de Projet  
+📊 Intéressée par : Business Analysis, Data, Transformation Digitale, IA  
+🔍 En recherche active de missions en  BA / AMOA / Data / Digitalisation
+
+## 🔧 Compétences clés
+- Gestion de projet (Agile/Scrum, Cycle en V)
+- Analyse métier, modélisation, KPIs
+- Power BI, Power Automate, Python, JIRA, Confluence
+
+## 📁 Projets
+- [Transformation digitale chez IDEMIA](#)
+- [Pilotage des risques - Safran](#)
+- [Supervision IoT - AgroAM](#)
