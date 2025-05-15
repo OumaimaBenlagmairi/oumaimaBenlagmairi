@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-# Oumaima Benlagmairi
+## Oumaima Benlagmairi
 
 🎓 Ingénieure généraliste | MSc en Management de Projet  
 📊 Intéressée par : Business Analysis, Data, Transformation Digitale, IA  
