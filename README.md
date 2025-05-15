@@ -4,7 +4,7 @@
 
 🎓 Ingénieure généraliste | MSc en Management de Projet  
 📊 Intéressée par : Business Analysis, Data, Transformation Digitale, IA  
-🔍 En recherche active de missions en AMOA / Data / Digitalisation
+🔍 En recherche active de missions en BA / AMOA / Data / Digitalisation
 
 ## 💼 Compétences clés
 
@@ -21,4 +21,6 @@
 ## 🔗 Liens utiles
 
 - [Mon LinkedIn](https://www.linkedin.com/in/oumaima-benlagmairi)
+- [📄 Mon CV (PDF)](https://github.com/OumaimaBenlagmairi/my-profile/blob/main/BENLAGMAIRI_OUMAIMA_25.pdf)
+
 
