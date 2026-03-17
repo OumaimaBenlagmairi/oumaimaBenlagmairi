@@ -1,26 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Oumaima Benlagmairi
 
-# Oumaima Benlagmairi
+🎯 Business Analyst / AMOA – Digital Transformation  / Product Owner 
 
-🎓 Ingénieure généraliste | MSc en Management de Projet  
-📊 Intéressée par : Business Analysis, Data, Transformation Digitale, IA  
-🔍 En recherche active de missions en BA / AMOA / Data / Digitalisation
+💡 Passionate about bridging business needs and IT solutions through data, analysis, and agile methodologies.
 
-## 💼 Compétences clés
+## 🚀 About Me
 
-- Gestion de projet (Agile/Scrum, Cycle en V)
-- Analyse métier, modélisation, KPIs
-- Power BI, Power Automate, Python, JIRA, Confluence
+- 🎓 Engineering degree + Master's in Project Management  
+- 💼 Experience in digital transformation and business analysis (Mercedes Benz, IDEMIA, SAFRAN)  
+- 🔍 Strong focus on business needs analysis and process optimization  
+- ⚙️ Agile mindset (Safe, Scrum, Kanban)
 
-## 📁 Projets
+## 🧠 Core Skills
 
-- Transformation digitale chez IDEMIA
-- Pilotage des risques - Safran
-- Supervision IoT - AgroAM
+- Business Analysis  
+- Requirements Gathering & Documentation  
+- Agile / Cycle V
+- UML (Use Case, Sequence Diagrams...), BPMN, DFD
+- Process Mapping (AS-IS / TO-BE)  
+- KPI & Data Analysis  
 
-## 🔗 Liens utiles
+## 🛠️ Tools
 
-- [Mon LinkedIn](https://www.linkedin.com/in/oumaima-benlagmairi)
-- [📄 Mon CV (PDF)](https://github.com/OumaimaBenlagmairi/my-profile/blob/main/BENLAGMAIRI_OUMAIMA_25.pdf)
+Jira | Confluence | Power Apps | Postman/HP ALM | SQL | Json 
 
 
+## 📂 Featured Projects
+
+### 📦 E-commerce Business Analysis Project
+- Business requirements documentation  
+- User stories & acceptance criteria  
+- UML diagrams (Use Case, Sequence)  
+- KPI definition (conversion rate, cart abandonment)  
+
+
+### 📊 KPI Dashboard Project
+- Data analysis using Excel / Power BI  
+- Definition of performance indicators  
+- Business recommendations  
+
+
+### ⚙️ Digital Transformation Project
+- Process mapping (AS-IS / TO-BE)  
+- Identification of inefficiencies  
+- Proposed optimization solutions  
+
+
+## 📜 Certifications
+
+- Business Analysis Foundations – LinkedIn Learning  
+- Atlassian Agile Project Management Professional Certificate  – LinkedIn Learning  
+- Scrum Fundamentals – LinkedIn Learning
+- Learning REST APIs - LinkedIn Learning
+- API Testing Foundations - LinkedIn Learning
+
+*(Certificates available in the "certifications" repository)*
+
+
+## 🌍 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/oumaima-benlagmairi
+- 📧 Email: ouaima.bengmairi@gmail.com
+
+
+⭐ Feel free to explore my repositories and reach out!
